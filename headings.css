@@ -1,0 +1,39 @@
+/* -------------------------- SIZE -------------------------- */
+
+.HyperMD-header-2 {
+  font-size: var(--h1-size) !important;
+}
+
+.HyperMD-header-3 {
+  font-size: var(--h2-size) !important;
+}
+
+.HyperMD-header-4 {
+  font-size: var(--h3-size) !important;
+}
+
+.HyperMD-header-5 {
+  font-size: var(--h4-size) !important;
+}
+
+/* ------------------------- COLORS ------------------------- */
+
+.cm-header-2,
+h2 {
+  color: #417d96 !important;
+}
+
+.cm-header-3,
+h3 {
+  color: #a020d3 !important;
+}
+
+.cm-header-4,
+h4 {
+  color: #4e913f !important;
+}
+
+.cm-header-5,
+h5 {
+  color: #b00139 !important;
+}
