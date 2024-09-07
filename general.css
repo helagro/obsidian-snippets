@@ -25,6 +25,16 @@ em {
   color: #d05b09;
 }
 
+/* ----------------------- STATUS BAR ----------------------- */
+
+.status-bar-item {
+  display: none;
+}
+
+.plugin-sync {
+  display: inline-flex;
+}
+
 /* -------------------------- EMBEDDINGS ------------------------- */
 
 .embed-title {
